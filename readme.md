@@ -4,12 +4,12 @@
 
 ## Projekta darba mērķis
 
-
+Izmantojot specializētu programmu automatizēt garantijas noteikumu atrašanas procesu
 
 ## Projekta darbā izmantotās bibliotēkas
 
-
+Izmantotās bibliotēkas ir selenium un time. Ar bibliotekas selenium rīkiem ir iespējāms atvērt pārlūkprogrammu ar kuras palīdzību var ieiet mājaslapā un veikt nepieciešamas darbības, lai atrastu noteikumus
 
 ## Projekta pielietojums
 
-
+Projekta darbu jeb jaunizveidoto programmatūru esmu iecerējis izmantot savā darba vietā, lai atrastu garantijas nodrošināšanas un preces pieņemšanas noteikumus
